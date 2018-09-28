@@ -1,0 +1,126 @@
+body, html {
+  background-color: #f6f6f6;
+}
+
+#painting {
+  background-color: #fff4db;
+  width: 400px;
+  height: 400px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+#firstrow {
+  height: 130px;
+}
+
+#mediumbox {
+  width: 130px;
+  height: 130px;
+}
+
+#thirdrow {
+  height: 190px;
+}
+
+#widebox {
+  width: 260px;
+  height: 130px;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.right {
+  float: right;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.pink {
+  background-color: pink;
+}
+
+#divider1 {
+  height: 130px;
+  width: 10px;
+}
+
+#divider2 {
+  height: 10px;
+  width: 400px;
+}
+
+#secondrow {
+  height: 10px;
+}
+
+#divider3 {
+  height: 10px;
+  width: 400px;
+}
+
+#largebox {
+  height: 190px;
+  width: 200px;
+}
+
+#divider4 {
+  height: 190px;
+  width: 10px;
+}
+
+#leftcolumn {
+  height: 190px;
+  width: 190px;
+}
+
+#smallbox {
+  height: 90px;
+  width: 190px;
+}
+
+#fourthrow {
+  height: 60px;
+  width: 400;
+}
+
+#verysmallbox {
+  height: 60px;
+  width: 60px;
+}
+
+#divider5 {
+  height: 10px;
+  width: 190px;
+}
+
+#divider6 {
+  height: 60px;
+  width: 10px;
+}
