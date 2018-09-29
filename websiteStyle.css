@@ -7,7 +7,7 @@
 }
 
 .jumbotron {
-   background-color: rgba(200, 200, 200, 0.7);
+   background-color: rgba(200, 200, 200, 0.9);
 }
 
 body, html {
@@ -15,56 +15,3 @@ body, html {
     margin: 0;
     background-color: gray;
 }
-
-.center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
- }
-
- #counter-wrapper {
-   width: 100%;
-   font-family: Arial;
- }
-
- #counter {
-   text-align: center;
-   font-size: 100px;
-   margin-bottom: 20px;
-   color: white;
- }
-
- #buttons {
-   width: 400px;
-   height: 50px;
-   margin: 0px auto;
- }
-
- #left, #right {
-   width: 50%;
-   float: left;
- }
-
- .btn {
-   background-color: blue;
-   color: white;
-   height: 40px;
-   width: 100%;
-   font-family: Arial;
-   font-size: 18px;
- }
-
- #decr {
-   background-color: maroon;
- }
-
- #leave-wrapper {
-   width: 400px;
-   margin: 0px auto;
- }
-
- #leave {
-   width: 400px;
-   margin: 0px auto;
-   background-color: silver;
- }

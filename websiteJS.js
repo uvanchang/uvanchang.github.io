@@ -3,7 +3,7 @@ function mouseOver() {
 }
 
 function mouseAway() {
-  document.getElementById("me").src = "finalPopcg3fcz.png";
+  document.getElementById("me").src = "mePop.png";
 }
 
 function jumboOver() {
