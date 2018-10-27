@@ -1,9 +1,9 @@
 function mouseOver() {
-  document.getElementById("me").src = "me.jpg";
+  document.getElementById("me").src = "../img/me.jpg";
 }
 
 function mouseAway() {
-  document.getElementById("me").src = "mePop.png";
+  document.getElementById("me").src = "../img/mePop.png";
 }
 
 function jumboOver() {
